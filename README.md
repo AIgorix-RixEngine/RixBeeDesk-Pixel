@@ -1,2 +1,2 @@
 # RixBeeDesk-Pixel
-Install RixBeeDesk Pixel to make your website better served
+Install RixDesk Pixel to make your website better served
