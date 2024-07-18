@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://www.rixengine.com"
-documentation: "https://crs.rixbeedesk.com/help/tracking"
+documentation: "https://rixdsp.rixbeedesk.com/tracking/tracking-pixel-md"
 versions:
   - sha: de0262a0d77da80c71852f1923c5cc1a1c81d49e
     changeNotes: This version fixes some display issues
